@@ -1,0 +1,14 @@
+Skolski pilot
+1. Definišite 3 funkcionalna i 2 nefunkcionalna zahteva.
+-Tri funkcionalna zahteva:
+	-Sistema mora da omoguci prijavu korisnika
+	-Korisnik moze samo da gleda sadrzaj, dok nema odredjenu dozvolu
+	-Sistem mora da omoguci odredjenim korisnicima(nastavnicima) unos pismenih provera, konsultacija...
+-Tri nefunkcionalna zahteva:
+	-Performanse : Stranica mora da se ucitava manje od dve sekunde
+	-Skalabilnost : Da li sistem moze da podrzi broj svih ucenika i profesora
+	-Security : Sve lozinke moraju da budu zasticene, jedinstvene i sa najmanje 8 karaktera
+
+2. Napišite 2 korisničke priče u standardnom formatu (Kao... želim... da bih...).
+1) Kao nastavnik, zelim da unosim raspored pismenih proveri, da bih mogao lakse da se organizujem
+2) Kao ucenik, zelim da vidim sve svoj ocene, da bih mogao da budem informisan o proseku.

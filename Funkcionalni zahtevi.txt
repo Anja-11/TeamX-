@@ -1,0 +1,21 @@
+Funkcionalni zahtevi
+Sistem treba da omogući korisnicima registraciju i prijavu na korisnički nalog.
+
+Sistem treba da omogući pregled proizvoda, pretragu i filtriranje prema kategoriji i ceni.
+
+Sistem treba da omogući korisnicima dodavanje proizvoda u korpu i izvršavanje porudžbine.
+
+Nefunkcionalni zahtevi
+Performanse: Sistem treba da učitava stranice u roku od najviše 3 sekunde pri normalnom opterećenju.
+
+Bezbednost: Sistem mora da štiti lične podatke korisnika i da koristi bezbedan način prijave.
+
+Dostupnost: Sistem treba da bude dostupan korisnicima 99% vremena tokom meseca.
+Korisničke priče
+Korisnička priča 1 Registracija korisnika
+
+Kao novi korisnik, želim da mogu da kreiram svoj nalog unosom osnovnih podataka, kako bih mogao da koristim sve funkcionalnosti aplikacije.
+
+Korisnička priča 2 Kupovina proizvoda
+
+Kao registrovani korisnik, želim da mogu da dodajem proizvode u korpu i izvršim porudžbinu, kako bih jednostavno kupio željene proizvode.
